@@ -1,2 +1,2 @@
-# PACE-PBPK-Monte-Carlo__public
- Public Physiologically Based Pharmacokinetic Model of polyamine coester nanoparticles
+# PACE-PBPK
+ Physiologically based pharmacokinetic model of poly amine coester nanoparticle biodistribution in mice
